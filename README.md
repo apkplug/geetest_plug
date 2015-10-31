@@ -21,4 +21,4 @@ plugGtListener为验证回调接口
          public void gtResult(String response){ 
              response为返回验证信息  
         } 
-   } 
+    } 
